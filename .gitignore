@@ -1,0 +1,11 @@
+*.job
+*.docx
+*.txt
+
+main
+
+stream/
+graf/
+
+*.sh
+
